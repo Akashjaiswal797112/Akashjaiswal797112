@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @akashjaiswal797112
+Hey 
+ 👋
+ I'm Akash
+
 - 👀 I’m interested in Tech
+- I'm currently learning Android Development
 - 📫 How to reach me ...
              Instagram: mr.jais_since_2001
              
