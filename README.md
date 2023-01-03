@@ -5,7 +5,7 @@ Hey
 - 👀 I’m interested in Tech
 - I'm currently learning Android Development
 - 📫 How to reach me ...
-             Instagram: mr.jais_since_2001
+             Instagram: akash.jaiswal17
              
 
 <!---
